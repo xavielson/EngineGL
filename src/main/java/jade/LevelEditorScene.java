@@ -136,8 +136,8 @@ public class LevelEditorScene extends Scene {
 
         timePassed += dt;
         if (timePassed > 3.0f) {
-            System.out.println("(" + MouseListener.getOrthoX() + ", " + MouseListener.getOrthoY() + ")");
-            System.out.println("FPS : " + 1.0/dt);
+//            System.out.println("(" + MouseListener.getOrthoX() + ", " + MouseListener.getOrthoY() + ")");
+//            System.out.println("FPS : " + 1.0/dt);
             timePassed = 0f;
         }
     }

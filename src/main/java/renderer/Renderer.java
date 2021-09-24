@@ -30,17 +30,21 @@ public class Renderer {
                 if (tex == null || (batch.hasTexture(tex) || batch.hasTextureRoom())) {
                     batch.addSprite(sprite);
                     added = true;
+                    //System.out.println(batches.size());
                     break;
                 }
             }
         }
 
         if (!added) {
-            System.out.println("Not added");
             RenderBatch newBatch = new RenderBatch(MAX_BATCH_SIZE, sprite.gameObject.zIndex());
+            System.out.println("Created " + newBatch);
             newBatch.start();
             batches.add(newBatch);
-            System.out.println(newBatch);
+
+
+
+
             newBatch.addSprite(sprite);
             Collections.sort(batches);
         }

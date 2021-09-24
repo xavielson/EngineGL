@@ -39,7 +39,7 @@ public abstract class Component {
     public void generateUid () {
         if (uid == -1) {
             this.uid = ID_COUNTER++;
-            System.out.println("Created Component ID " + (ID_COUNTER - 1) + ". (generate)");
+            //System.out.println("Created Component ID " + (ID_COUNTER - 1) + ". (generate)");
         }
 
     }

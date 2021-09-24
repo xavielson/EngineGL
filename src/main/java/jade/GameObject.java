@@ -21,7 +21,7 @@ public class GameObject {
         this.components = new ArrayList<>();
         //this.transform = new Transform(new Vector2f(100,100), new Vector2f(50, 50));
         this.uid = ID_COUNTER++;
-        System.out.println("Created " + name + " " + uid);
+        //System.out.println("Created " + name + " " + uid);
 
     }
 

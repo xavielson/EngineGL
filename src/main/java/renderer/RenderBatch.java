@@ -106,7 +106,6 @@ public class RenderBatch implements Comparable<RenderBatch> {
         this.numSprites++;
 
         if (spr.getTexture() != null) {
-            System.out.println("spr.getTexture != null on RenderBatch");
             if (!textures.contains(spr.getTexture())) {
                 textures.add(spr.getTexture());
             } else {
@@ -161,14 +160,10 @@ public class RenderBatch implements Comparable<RenderBatch> {
         glDisableVertexAttribArray(1);
         glBindVertexArray(0);
 
-
-
         for (int i = 0; i < textures.size(); i++) {
             textures.get(i).unbind();
         }
-
         shader.detach();
-
     }
 
     private void loadVertexProperties (int index) {

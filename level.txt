@@ -2239,8 +2239,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 816.0,
-            "y": 336.0
+            "x": 672.0,
+            "y": 576.0
           },
           "scale": {
             "x": 50.0,
@@ -2267,20 +2267,20 @@
             },
             "texCoords": [
               {
-                "x": 0.35,
+                "x": 0.95,
+                "y": 0.962963
+              },
+              {
+                "x": 0.95,
                 "y": 0.9259259
               },
               {
-                "x": 0.35,
-                "y": 0.8888889
-              },
-              {
-                "x": 0.3,
-                "y": 0.8888889
-              },
-              {
-                "x": 0.3,
+                "x": 0.9,
                 "y": 0.9259259
+              },
+              {
+                "x": 0.9,
+                "y": 0.962963
               }
             ],
             "width": 24.0,
@@ -2301,8 +2301,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 912.0,
-            "y": 336.0
+            "x": 720.0,
+            "y": 576.0
           },
           "scale": {
             "x": 50.0,
@@ -2329,19 +2329,19 @@
             },
             "texCoords": [
               {
-                "x": 0.4,
+                "x": 0.1,
                 "y": 0.9259259
               },
               {
-                "x": 0.4,
+                "x": 0.1,
                 "y": 0.8888889
               },
               {
-                "x": 0.35,
+                "x": 0.05,
                 "y": 0.8888889
               },
               {
-                "x": 0.35,
+                "x": 0.05,
                 "y": 0.9259259
               }
             ],
@@ -2363,8 +2363,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 1008.0,
-            "y": 336.0
+            "x": 768.0,
+            "y": 576.0
           },
           "scale": {
             "x": 50.0,
@@ -2391,20 +2391,20 @@
             },
             "texCoords": [
               {
-                "x": 0.4,
+                "x": 0.95,
+                "y": 0.962963
+              },
+              {
+                "x": 0.95,
                 "y": 0.9259259
               },
               {
-                "x": 0.4,
-                "y": 0.8888889
-              },
-              {
-                "x": 0.35,
-                "y": 0.8888889
-              },
-              {
-                "x": 0.35,
+                "x": 0.9,
                 "y": 0.9259259
+              },
+              {
+                "x": 0.9,
+                "y": 0.962963
               }
             ],
             "width": 24.0,
@@ -2425,8 +2425,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 864.0,
-            "y": 336.0
+            "x": 816.0,
+            "y": 576.0
           },
           "scale": {
             "x": 50.0,
@@ -2453,19 +2453,19 @@
             },
             "texCoords": [
               {
-                "x": 0.95,
+                "x": 0.9,
                 "y": 0.962963
               },
               {
-                "x": 0.95,
-                "y": 0.9259259
-              },
-              {
                 "x": 0.9,
                 "y": 0.9259259
               },
               {
-                "x": 0.9,
+                "x": 0.85,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.85,
                 "y": 0.962963
               }
             ],
@@ -2487,8 +2487,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 816.0,
-            "y": 288.0
+            "x": 864.0,
+            "y": 576.0
           },
           "scale": {
             "x": 50.0,
@@ -2515,19 +2515,19 @@
             },
             "texCoords": [
               {
-                "x": 0.3,
+                "x": 0.1,
                 "y": 0.9259259
               },
               {
-                "x": 0.3,
+                "x": 0.1,
                 "y": 0.8888889
               },
               {
-                "x": 0.25,
+                "x": 0.05,
                 "y": 0.8888889
               },
               {
-                "x": 0.25,
+                "x": 0.05,
                 "y": 0.9259259
               }
             ],
@@ -2549,8 +2549,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 864.0,
-            "y": 288.0
+            "x": 912.0,
+            "y": 576.0
           },
           "scale": {
             "x": 50.0,
@@ -2577,20 +2577,20 @@
             },
             "texCoords": [
               {
-                "x": 0.35,
+                "x": 0.7,
+                "y": 0.962963
+              },
+              {
+                "x": 0.7,
                 "y": 0.9259259
               },
               {
-                "x": 0.35,
-                "y": 0.8888889
-              },
-              {
-                "x": 0.3,
-                "y": 0.8888889
-              },
-              {
-                "x": 0.3,
+                "x": 0.65,
                 "y": 0.9259259
+              },
+              {
+                "x": 0.65,
+                "y": 0.962963
               }
             ],
             "width": 24.0,
@@ -2611,8 +2611,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 912.0,
-            "y": 288.0
+            "x": 960.0,
+            "y": 576.0
           },
           "scale": {
             "x": 50.0,
@@ -2632,27 +2632,27 @@
           },
           "sprite": {
             "texture": {
-              "filePath": "assets/images/pic4.png",
-              "texID": 2,
-              "width": 1366,
-              "height": 1007
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
             },
             "texCoords": [
               {
-                "x": 0.43923867,
-                "y": 0.97616684
+                "x": 0.75,
+                "y": 0.962963
               },
               {
-                "x": 0.43923867,
-                "y": 0.9523337
+                "x": 0.75,
+                "y": 0.9259259
               },
               {
-                "x": 0.4216691,
-                "y": 0.9523337
+                "x": 0.7,
+                "y": 0.9259259
               },
               {
-                "x": 0.4216691,
-                "y": 0.97616684
+                "x": 0.7,
+                "y": 0.962963
               }
             ],
             "width": 24.0,
@@ -2673,8 +2673,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 912.0,
-            "y": 288.0
+            "x": 1008.0,
+            "y": 576.0
           },
           "scale": {
             "x": 50.0,
@@ -2694,27 +2694,27 @@
           },
           "sprite": {
             "texture": {
-              "filePath": "assets/images/pic4.png",
-              "texID": 2,
-              "width": 1366,
-              "height": 1007
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
             },
             "texCoords": [
               {
-                "x": 0.56222546,
-                "y": 0.97616684
+                "x": 0.75,
+                "y": 0.8518519
               },
               {
-                "x": 0.56222546,
-                "y": 0.9523337
+                "x": 0.75,
+                "y": 0.8148148
               },
               {
-                "x": 0.5446559,
-                "y": 0.9523337
+                "x": 0.7,
+                "y": 0.8148148
               },
               {
-                "x": 0.5446559,
-                "y": 0.97616684
+                "x": 0.7,
+                "y": 0.8518519
               }
             ],
             "width": 24.0,
@@ -2735,8 +2735,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 960.0,
-            "y": 288.0
+            "x": 864.0,
+            "y": 432.0
           },
           "scale": {
             "x": 50.0,
@@ -2756,27 +2756,27 @@
           },
           "sprite": {
             "texture": {
-              "filePath": "assets/images/pic4.png",
-              "texID": 2,
-              "width": 1366,
-              "height": 1007
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
             },
             "texCoords": [
               {
-                "x": 0.5446559,
-                "y": 0.97616684
+                "x": 0.35,
+                "y": 0.6666667
               },
               {
-                "x": 0.5446559,
-                "y": 0.9523337
+                "x": 0.35,
+                "y": 0.6296296
               },
               {
-                "x": 0.5270864,
-                "y": 0.9523337
+                "x": 0.3,
+                "y": 0.6296296
               },
               {
-                "x": 0.5270864,
-                "y": 0.97616684
+                "x": 0.3,
+                "y": 0.6666667
               }
             ],
             "width": 24.0,
@@ -2797,8 +2797,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 960.0,
-            "y": 336.0
+            "x": 720.0,
+            "y": 432.0
           },
           "scale": {
             "x": 50.0,
@@ -2818,27 +2818,27 @@
           },
           "sprite": {
             "texture": {
-              "filePath": "assets/images/pic4.png",
-              "texID": 2,
-              "width": 1366,
-              "height": 1007
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
             },
             "texCoords": [
               {
-                "x": 0.43923867,
-                "y": 0.97616684
+                "x": 0.8,
+                "y": 0.5555556
               },
               {
-                "x": 0.43923867,
-                "y": 0.9523337
+                "x": 0.8,
+                "y": 0.5185185
               },
               {
-                "x": 0.4216691,
-                "y": 0.9523337
+                "x": 0.75,
+                "y": 0.5185185
               },
               {
-                "x": 0.4216691,
-                "y": 0.97616684
+                "x": 0.75,
+                "y": 0.5555556
               }
             ],
             "width": 24.0,
@@ -2859,8 +2859,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 1008.0,
-            "y": 288.0
+            "x": 1104.0,
+            "y": 432.0
           },
           "scale": {
             "x": 50.0,
@@ -2880,27 +2880,27 @@
           },
           "sprite": {
             "texture": {
-              "filePath": "assets/images/pic4.png",
-              "texID": 2,
-              "width": 1366,
-              "height": 1007
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
             },
             "texCoords": [
               {
-                "x": 0.579795,
-                "y": 0.97616684
+                "x": 0.25,
+                "y": 0.9259259
               },
               {
-                "x": 0.579795,
-                "y": 0.9523337
+                "x": 0.25,
+                "y": 0.8888889
               },
               {
-                "x": 0.56222546,
-                "y": 0.9523337
+                "x": 0.2,
+                "y": 0.8888889
               },
               {
-                "x": 0.56222546,
-                "y": 0.97616684
+                "x": 0.2,
+                "y": 0.9259259
               }
             ],
             "width": 24.0,
@@ -2921,8 +2921,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 1056.0,
-            "y": 336.0
+            "x": 864.0,
+            "y": 384.0
           },
           "scale": {
             "x": 50.0,
@@ -2942,27 +2942,27 @@
           },
           "sprite": {
             "texture": {
-              "filePath": "assets/images/pic4.png",
-              "texID": 2,
-              "width": 1366,
-              "height": 1007
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
             },
             "texCoords": [
               {
-                "x": 0.6852123,
-                "y": 0.97616684
+                "x": 0.3,
+                "y": 0.9259259
               },
               {
-                "x": 0.6852123,
-                "y": 0.9523337
+                "x": 0.3,
+                "y": 0.8888889
               },
               {
-                "x": 0.6676428,
-                "y": 0.9523337
+                "x": 0.25,
+                "y": 0.8888889
               },
               {
-                "x": 0.6676428,
-                "y": 0.97616684
+                "x": 0.25,
+                "y": 0.9259259
               }
             ],
             "width": 24.0,
@@ -2983,8 +2983,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 768.0,
-            "y": 288.0
+            "x": 720.0,
+            "y": 384.0
           },
           "scale": {
             "x": 50.0,
@@ -3004,27 +3004,27 @@
           },
           "sprite": {
             "texture": {
-              "filePath": "assets/images/pic4.png",
-              "texID": 2,
-              "width": 1366,
-              "height": 1007
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
             },
             "texCoords": [
               {
-                "x": 0.5446559,
-                "y": 0.97616684
+                "x": 0.6,
+                "y": 0.9259259
               },
               {
-                "x": 0.5446559,
-                "y": 0.9523337
+                "x": 0.6,
+                "y": 0.8888889
               },
               {
-                "x": 0.5270864,
-                "y": 0.9523337
+                "x": 0.55,
+                "y": 0.8888889
               },
               {
-                "x": 0.5270864,
-                "y": 0.97616684
+                "x": 0.55,
+                "y": 0.9259259
               }
             ],
             "width": 24.0,
@@ -3045,8 +3045,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 768.0,
-            "y": 336.0
+            "x": 1104.0,
+            "y": 384.0
           },
           "scale": {
             "x": 50.0,
@@ -3066,27 +3066,27 @@
           },
           "sprite": {
             "texture": {
-              "filePath": "assets/images/pic4.png",
-              "texID": 2,
-              "width": 1366,
-              "height": 1007
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
             },
             "texCoords": [
               {
-                "x": 0.5270864,
-                "y": 0.97616684
+                "x": 0.55,
+                "y": 0.9259259
               },
               {
-                "x": 0.5270864,
-                "y": 0.9523337
+                "x": 0.55,
+                "y": 0.8888889
               },
               {
-                "x": 0.50951684,
-                "y": 0.9523337
+                "x": 0.5,
+                "y": 0.8888889
               },
               {
-                "x": 0.50951684,
-                "y": 0.97616684
+                "x": 0.5,
+                "y": 0.9259259
               }
             ],
             "width": 24.0,
@@ -3107,8 +3107,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 1056.0,
-            "y": 288.0
+            "x": 720.0,
+            "y": 336.0
           },
           "scale": {
             "x": 50.0,
@@ -3128,27 +3128,27 @@
           },
           "sprite": {
             "texture": {
-              "filePath": "assets/images/pic4.png",
-              "texID": 2,
-              "width": 1366,
-              "height": 1007
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
             },
             "texCoords": [
               {
-                "x": 0.4919473,
-                "y": 0.97616684
+                "x": 0.5,
+                "y": 0.9259259
               },
               {
-                "x": 0.4919473,
-                "y": 0.9523337
+                "x": 0.5,
+                "y": 0.8888889
               },
               {
-                "x": 0.47437775,
-                "y": 0.9523337
+                "x": 0.45,
+                "y": 0.8888889
               },
               {
-                "x": 0.47437775,
-                "y": 0.97616684
+                "x": 0.45,
+                "y": 0.9259259
               }
             ],
             "width": 24.0,
@@ -3169,7 +3169,7 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 720.0,
+            "x": 864.0,
             "y": 336.0
           },
           "scale": {
@@ -3197,19 +3197,19 @@
             },
             "texCoords": [
               {
-                "x": 0.45,
+                "x": 0.7,
                 "y": 0.9259259
               },
               {
-                "x": 0.45,
+                "x": 0.7,
                 "y": 0.8888889
               },
               {
-                "x": 0.4,
+                "x": 0.65,
                 "y": 0.8888889
               },
               {
-                "x": 0.4,
+                "x": 0.65,
                 "y": 0.9259259
               }
             ],
@@ -3231,8 +3231,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 720.0,
-            "y": 288.0
+            "x": 624.0,
+            "y": 336.0
           },
           "scale": {
             "x": 50.0,
@@ -3259,20 +3259,20 @@
             },
             "texCoords": [
               {
-                "x": 0.8,
-                "y": 0.9259259
-              },
-              {
-                "x": 0.8,
-                "y": 0.8888889
+                "x": 0.75,
+                "y": 0.8518519
               },
               {
                 "x": 0.75,
-                "y": 0.8888889
+                "y": 0.8148148
               },
               {
-                "x": 0.75,
-                "y": 0.9259259
+                "x": 0.7,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.7,
+                "y": 0.8518519
               }
             ],
             "width": 24.0,
@@ -3293,8 +3293,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 672.0,
-            "y": 336.0
+            "x": 624.0,
+            "y": 384.0
           },
           "scale": {
             "x": 50.0,
@@ -3321,20 +3321,20 @@
             },
             "texCoords": [
               {
-                "x": 0.45,
-                "y": 0.9259259
+                "x": 0.7,
+                "y": 0.8518519
               },
               {
-                "x": 0.45,
-                "y": 0.8888889
+                "x": 0.7,
+                "y": 0.8148148
               },
               {
-                "x": 0.4,
-                "y": 0.8888889
+                "x": 0.65,
+                "y": 0.8148148
               },
               {
-                "x": 0.4,
-                "y": 0.9259259
+                "x": 0.65,
+                "y": 0.8518519
               }
             ],
             "width": 24.0,
@@ -3355,8 +3355,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 672.0,
-            "y": 288.0
+            "x": 624.0,
+            "y": 432.0
           },
           "scale": {
             "x": 50.0,
@@ -3384,19 +3384,19 @@
             "texCoords": [
               {
                 "x": 0.8,
-                "y": 0.9259259
+                "y": 0.8518519
               },
               {
                 "x": 0.8,
-                "y": 0.8888889
+                "y": 0.8148148
               },
               {
                 "x": 0.75,
-                "y": 0.8888889
+                "y": 0.8148148
               },
               {
                 "x": 0.75,
-                "y": 0.9259259
+                "y": 0.8518519
               }
             ],
             "width": 24.0,
@@ -3417,8 +3417,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 1248.0,
-            "y": 432.0
+            "x": 528.0,
+            "y": 336.0
           },
           "scale": {
             "x": 50.0,
@@ -3445,20 +3445,20 @@
             },
             "texCoords": [
               {
-                "x": 0.75,
-                "y": 0.6296296
+                "x": 0.85,
+                "y": 0.8518519
               },
               {
-                "x": 0.75,
-                "y": 0.5925926
+                "x": 0.85,
+                "y": 0.8148148
               },
               {
-                "x": 0.7,
-                "y": 0.5925926
+                "x": 0.8,
+                "y": 0.8148148
               },
               {
-                "x": 0.7,
-                "y": 0.6296296
+                "x": 0.8,
+                "y": 0.8518519
               }
             ],
             "width": 24.0,
@@ -3479,8 +3479,8 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 1248.0,
-            "y": 432.0
+            "x": 432.0,
+            "y": 336.0
           },
           "scale": {
             "x": 50.0,
@@ -3507,20 +3507,20 @@
             },
             "texCoords": [
               {
-                "x": 0.75,
-                "y": 0.6296296
+                "x": 0.85,
+                "y": 0.8518519
               },
               {
-                "x": 0.75,
-                "y": 0.5925926
+                "x": 0.85,
+                "y": 0.8148148
               },
               {
-                "x": 0.7,
-                "y": 0.5925926
+                "x": 0.8,
+                "y": 0.8148148
               },
               {
-                "x": 0.7,
-                "y": 0.6296296
+                "x": 0.8,
+                "y": 0.8518519
               }
             ],
             "width": 24.0,
@@ -3541,7 +3541,7 @@
         "type": "jade.Transform",
         "properties": {
           "position": {
-            "x": 1296.0,
+            "x": 336.0,
             "y": 336.0
           },
           "scale": {
@@ -3569,20 +3569,20 @@
             },
             "texCoords": [
               {
-                "x": 0.55,
-                "y": 0.5925926
+                "x": 0.8,
+                "y": 0.8518519
               },
               {
-                "x": 0.55,
-                "y": 0.5555556
+                "x": 0.8,
+                "y": 0.8148148
               },
               {
-                "x": 0.5,
-                "y": 0.5555556
+                "x": 0.75,
+                "y": 0.8148148
               },
               {
-                "x": 0.5,
-                "y": 0.5925926
+                "x": 0.75,
+                "y": 0.8518519
               }
             ],
             "width": 24.0,
@@ -3590,6 +3590,2672 @@
           },
           "isUnplaced": false,
           "uid": 115
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 58,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 288.0,
+            "y": 336.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 116
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.75,
+                "y": 0.8518519
+              },
+              {
+                "x": 0.75,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.7,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.7,
+                "y": 0.8518519
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 117
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 59,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 240.0,
+            "y": 336.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 118
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.7,
+                "y": 0.8518519
+              },
+              {
+                "x": 0.7,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.65,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.65,
+                "y": 0.8518519
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 119
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 60,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 192.0,
+            "y": 336.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 120
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.7,
+                "y": 0.8518519
+              },
+              {
+                "x": 0.7,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.65,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.65,
+                "y": 0.8518519
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 121
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 61,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 144.0,
+            "y": 336.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 122
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.65,
+                "y": 0.8518519
+              },
+              {
+                "x": 0.65,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.6,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.6,
+                "y": 0.8518519
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 123
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 62,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 96.0,
+            "y": 336.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 124
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.6,
+                "y": 0.8518519
+              },
+              {
+                "x": 0.6,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.55,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.55,
+                "y": 0.8518519
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 125
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 63,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 96.0,
+            "y": 240.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 126
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.95,
+                "y": 0.8518519
+              },
+              {
+                "x": 0.95,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.9,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.9,
+                "y": 0.8518519
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 127
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 64,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 192.0,
+            "y": 288.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 128
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.65,
+                "y": 0.8518519
+              },
+              {
+                "x": 0.65,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.6,
+                "y": 0.8148148
+              },
+              {
+                "x": 0.6,
+                "y": 0.8518519
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 129
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 65,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 288.0,
+            "y": 288.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 130
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.6,
+                "y": 0.7037037
+              },
+              {
+                "x": 0.6,
+                "y": 0.6666667
+              },
+              {
+                "x": 0.55,
+                "y": 0.6666667
+              },
+              {
+                "x": 0.55,
+                "y": 0.7037037
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 131
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 66,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 336.0,
+            "y": 192.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 132
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.65,
+                "y": 0.7037037
+              },
+              {
+                "x": 0.65,
+                "y": 0.6666667
+              },
+              {
+                "x": 0.6,
+                "y": 0.6666667
+              },
+              {
+                "x": 0.6,
+                "y": 0.7037037
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 133
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 67,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 384.0,
+            "y": 192.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 134
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.85,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.85,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.8,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.8,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 135
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 68,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 432.0,
+            "y": 240.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 136
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.9,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.9,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.85,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.85,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 137
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 69,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 432.0,
+            "y": 192.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 138
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.9,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.9,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.85,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.85,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 139
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 70,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 384.0,
+            "y": 240.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 140
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.85,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.85,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.8,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.8,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 141
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 71,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 432.0,
+            "y": 288.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 142
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.85,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.85,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.8,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.8,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 143
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 72,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 384.0,
+            "y": 336.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 144
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.5,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.5,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.45,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.45,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 145
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 73,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 336.0,
+            "y": 288.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 146
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.85,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.85,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.8,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.8,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 147
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 74,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 288.0,
+            "y": 240.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 148
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.85,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.85,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.8,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.8,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 149
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 75,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 240.0,
+            "y": 192.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 150
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.8,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.8,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.75,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.75,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 151
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 76,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 288.0,
+            "y": 192.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 152
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.75,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.75,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.7,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.7,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 153
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 77,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 240.0,
+            "y": 288.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 154
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.75,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.75,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.7,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.7,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 155
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 78,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 768.0,
+            "y": 336.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 156
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.85,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.85,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.8,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.8,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 157
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 79,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 768.0,
+            "y": 432.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 158
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.5,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.5,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.45,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.45,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 159
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 80,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1104.0,
+            "y": 336.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 160
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic4.png",
+              "texID": 2,
+              "width": 1366,
+              "height": 1007
+            },
+            "texCoords": [
+              {
+                "x": 0.15812592,
+                "y": 0.9523337
+              },
+              {
+                "x": 0.15812592,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.14055637,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.14055637,
+                "y": 0.9523337
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 161
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 81,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1152.0,
+            "y": 336.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 162
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic4.png",
+              "texID": 2,
+              "width": 1366,
+              "height": 1007
+            },
+            "texCoords": [
+              {
+                "x": 0.15812592,
+                "y": 0.9523337
+              },
+              {
+                "x": 0.15812592,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.14055637,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.14055637,
+                "y": 0.9523337
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 163
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 82,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1200.0,
+            "y": 336.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 164
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic4.png",
+              "texID": 2,
+              "width": 1366,
+              "height": 1007
+            },
+            "texCoords": [
+              {
+                "x": 0.15812592,
+                "y": 0.9523337
+              },
+              {
+                "x": 0.15812592,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.14055637,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.14055637,
+                "y": 0.9523337
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 165
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 83,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1248.0,
+            "y": 336.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 166
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic4.png",
+              "texID": 2,
+              "width": 1366,
+              "height": 1007
+            },
+            "texCoords": [
+              {
+                "x": 0.5270864,
+                "y": 0.9523337
+              },
+              {
+                "x": 0.5270864,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.50951684,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.50951684,
+                "y": 0.9523337
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 167
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 84,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1296.0,
+            "y": 336.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 168
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic4.png",
+              "texID": 2,
+              "width": 1366,
+              "height": 1007
+            },
+            "texCoords": [
+              {
+                "x": 0.6149341,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.6149341,
+                "y": 0.9046673
+              },
+              {
+                "x": 0.59736454,
+                "y": 0.9046673
+              },
+              {
+                "x": 0.59736454,
+                "y": 0.9285005
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 169
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 85,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1344.0,
+            "y": 624.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 170
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.95,
+                "y": 0.962963
+              },
+              {
+                "x": 0.95,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.9,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.9,
+                "y": 0.962963
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 171
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 86,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1296.0,
+            "y": 624.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 172
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.65,
+                "y": 0.962963
+              },
+              {
+                "x": 0.65,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.6,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.6,
+                "y": 0.962963
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 173
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 87,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1344.0,
+            "y": 576.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 174
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.15,
+                "y": 0.5555556
+              },
+              {
+                "x": 0.15,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.1,
+                "y": 0.5185185
+              },
+              {
+                "x": 0.1,
+                "y": 0.5555556
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 175
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 88,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1248.0,
+            "y": 624.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 176
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.7,
+                "y": 0.44444445
+              },
+              {
+                "x": 0.7,
+                "y": 0.4074074
+              },
+              {
+                "x": 0.65,
+                "y": 0.4074074
+              },
+              {
+                "x": 0.65,
+                "y": 0.44444445
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 177
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 89,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1248.0,
+            "y": 576.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 178
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.95,
+                "y": 0.22222222
+              },
+              {
+                "x": 0.95,
+                "y": 0.18518518
+              },
+              {
+                "x": 0.9,
+                "y": 0.18518518
+              },
+              {
+                "x": 0.9,
+                "y": 0.22222222
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 179
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 90,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 864.0,
+            "y": 672.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 180
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.85,
+                "y": 0.22222222
+              },
+              {
+                "x": 0.85,
+                "y": 0.18518518
+              },
+              {
+                "x": 0.8,
+                "y": 0.18518518
+              },
+              {
+                "x": 0.8,
+                "y": 0.22222222
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 181
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 91,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 912.0,
+            "y": 672.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 182
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.8,
+                "y": 0.22222222
+              },
+              {
+                "x": 0.8,
+                "y": 0.18518518
+              },
+              {
+                "x": 0.75,
+                "y": 0.18518518
+              },
+              {
+                "x": 0.75,
+                "y": 0.22222222
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 183
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 92,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 960.0,
+            "y": 672.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 184
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.75,
+                "y": 0.22222222
+              },
+              {
+                "x": 0.75,
+                "y": 0.18518518
+              },
+              {
+                "x": 0.7,
+                "y": 0.18518518
+              },
+              {
+                "x": 0.7,
+                "y": 0.22222222
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 185
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 93,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1152.0,
+            "y": 768.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 186
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.35,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.35,
+                "y": 0.8888889
+              },
+              {
+                "x": 0.3,
+                "y": 0.8888889
+              },
+              {
+                "x": 0.3,
+                "y": 0.9259259
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 187
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 94,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1200.0,
+            "y": 768.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 188
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.85,
+                "y": 0.962963
+              },
+              {
+                "x": 0.85,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.8,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.8,
+                "y": 0.962963
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 189
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 95,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1104.0,
+            "y": 768.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 190
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.2,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.2,
+                "y": 0.8888889
+              },
+              {
+                "x": 0.15,
+                "y": 0.8888889
+              },
+              {
+                "x": 0.15,
+                "y": 0.9259259
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 191
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 96,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1440.0,
+            "y": 576.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 192
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic4.png",
+              "texID": 2,
+              "width": 1366,
+              "height": 1007
+            },
+            "texCoords": [
+              {
+                "x": 0.29868227,
+                "y": 0.9523337
+              },
+              {
+                "x": 0.29868227,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.28111273,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.28111273,
+                "y": 0.9523337
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 193
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 97,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1440.0,
+            "y": 528.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 194
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic4.png",
+              "texID": 2,
+              "width": 1366,
+              "height": 1007
+            },
+            "texCoords": [
+              {
+                "x": 0.29868227,
+                "y": 0.9523337
+              },
+              {
+                "x": 0.29868227,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.28111273,
+                "y": 0.9285005
+              },
+              {
+                "x": 0.28111273,
+                "y": 0.9523337
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 195
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 98,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 1008.0,
+            "y": 672.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 196
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.7,
+                "y": 0.962963
+              },
+              {
+                "x": 0.7,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.65,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.65,
+                "y": 0.962963
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 197
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 99,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 816.0,
+            "y": 672.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 198
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.65,
+                "y": 0.962963
+              },
+              {
+                "x": 0.65,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.6,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.6,
+                "y": 0.962963
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 199
+        }
+      }
+    ],
+    "zIndex": 0
+  },
+  {
+    "uid": 100,
+    "name": "Generated G.O.",
+    "components": [
+      {
+        "type": "jade.Transform",
+        "properties": {
+          "position": {
+            "x": 768.0,
+            "y": 816.0
+          },
+          "scale": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "uid": 200
+        }
+      },
+      {
+        "type": "Components.SpriteRenderer",
+        "properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "texture": {
+              "filePath": "assets/images/pic3.png",
+              "texID": 3,
+              "width": 480,
+              "height": 648
+            },
+            "texCoords": [
+              {
+                "x": 0.65,
+                "y": 0.962963
+              },
+              {
+                "x": 0.65,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.6,
+                "y": 0.9259259
+              },
+              {
+                "x": 0.6,
+                "y": 0.962963
+              }
+            ],
+            "width": 24.0,
+            "height": 24.0
+          },
+          "isUnplaced": false,
+          "uid": 201
         }
       }
     ],
