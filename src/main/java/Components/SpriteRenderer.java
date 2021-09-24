@@ -19,7 +19,7 @@ public class SpriteRenderer extends Component {
     private boolean isUnplaced = false;
 
     public SpriteRenderer() {
-        System.out.println("nadaaaa");
+        System.out.println("nada");
     }
 
     @Override
