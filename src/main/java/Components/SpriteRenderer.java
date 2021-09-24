@@ -24,10 +24,10 @@ public class SpriteRenderer extends Component {
 
     @Override
     public void start() {
-//        if (this.sprite.getTexture() != null) {
-//            System.out.println("spr.getTexture is not null on SpriteRenderer" );
-//            this.sprite.setTexture(AssetPool.getTexture(this.sprite.getTexture().getFilepath()));
-//        }
+        if (this.sprite.getTexture() != null) {
+            System.out.println(this.sprite.getTexture().getFilepath());
+            this.sprite.setTexture(AssetPool.getTexture(this.sprite.getTexture().getFilepath()));
+        }
         this.lastTransform = gameObject.transform.copy();
     }
 

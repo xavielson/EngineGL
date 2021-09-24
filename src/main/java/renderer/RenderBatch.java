@@ -15,6 +15,10 @@ import static org.lwjgl.opengl.GL15.*;
 import static org.lwjgl.opengl.GL20.*;
 
 public class RenderBatch implements Comparable<RenderBatch> {
+
+    private static int renderBatchMaxId = 0;
+    private int renderBatchId = -1;
+
     //Vertex
     //======
     // Pos              Color                           tex Coords      tex id
@@ -47,6 +51,9 @@ public class RenderBatch implements Comparable<RenderBatch> {
     private int zIndex;
 
     public RenderBatch(int maxBatchSize, int zIndex) {
+
+        this.renderBatchId = renderBatchMaxId++;
+
         this.zIndex = zIndex;
         shader = AssetPool.getShader("assets/shaders/default.glsl");
         shader.compile();
@@ -268,5 +275,7 @@ public class RenderBatch implements Comparable<RenderBatch> {
         return Integer.compare(this.zIndex, o.zIndex());
     }
 
-
+    public int getRenderBatchId() {
+        return renderBatchId;
+    }
 }

@@ -28,12 +28,11 @@ public class AssetPool {
 
     public static Texture getTexture(String resourceName) {
 
-
-        if (AssetPool.textures.containsKey(resourceName)) {
+        File file = new File(resourceName);
+        if (AssetPool.textures.containsKey(file.getAbsolutePath())) {
             System.out.println("Contains! Returning Contained!");
-            return AssetPool.textures.get(resourceName);
+            return AssetPool.textures.get(file.getAbsolutePath());
         } else {
-            File file = new File(resourceName);
             Texture texture = new Texture();
             texture.init(resourceName);
             AssetPool.textures.put(file.getAbsolutePath(), texture);
